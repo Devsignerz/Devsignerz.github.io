@@ -1,0 +1,10 @@
+Package: com.devsignerz.photosfix
+Name: photosFix
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.photosFix/
+Description: a plugin for grayd00r that fixes the statusbar on photos and notes app
+Author: Devsignerz
+Section: Tweaks
+Version: 1.0
