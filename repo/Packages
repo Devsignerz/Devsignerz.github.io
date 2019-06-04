@@ -11,7 +11,7 @@ SHA256: cab2edeaf59fe0f15893d3fff3979cef9378e4af524eb5f9288337bbc06ede67
 Section: Addons
 Description: plugin for a tweak made by pw5a29, "Live battery indicator" which changes your status bar icon to ios 10's
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios10lbi/
+Depiction: repo/depictions/com.devsignerz.ios10lbi/
 Name: iOS 10 LBI Theme
 
 Package: com.devsignerz.ios11theme
@@ -26,7 +26,7 @@ SHA256: 5176bae5afd8fa5acc61bb242b71deebcecd7ac6c5977b83258a26b00eb0496c
 Section: Themes
 Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios11theme/
+Depiction: repo/depictions/com.devsignerz.ios11theme/
 Name: iOS 11 Theme
 
 Package: com.devsignerz.ios9theme
@@ -42,7 +42,7 @@ SHA256: dd4f91a9ecafd72a314649bb01ca17c787566cdd2f7fdc761283026f39c32c16
 Section: Themes
 Description: SD Devices Only!!!
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios9theme/
+Depiction: repo/depictions/com.devsignerz.ios9theme/
 Name: iOS 9 Theme
 
 Package: com.devsignerz.nobetaalert
@@ -58,7 +58,7 @@ SHA256: a8f1884736614354b8f65bd408e3b92f2e70b160cbe0c92dc73c0edf57c8e02d
 Section: Tweaks
 Description: Disables the alert shown after you unlock your device on the beta firmware
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.nobetaalert/
+Depiction: repo/depictions/com.devsignerz.nobetaalert/
 Name: noBetaAlert
 
 Package: com.devsignerz.photosfix
@@ -74,7 +74,7 @@ SHA256: 2877a9b98e105e6fc916e86a375ffcf1e0d59765ce7035d972cc1b4058c0b72a
 Section: Tweaks
 Description: a plugin for grayd00r that fixes the statusbar on photos and notes app
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.photosFix/
+Depiction: repo/depictions/com.devsignerz.photosFix/
 Name: photosFix
 
 Package: com.devsignerz.serendipity
@@ -89,6 +89,6 @@ SHA256: c9c65fdc005dd4f9553db7e8e52d46d17a3f26825b166ad91ef110dcd7eee1a5
 Section: Themes
 Description: original idea came from apple's 3D redesign rumor before ios 12's release and their WWDC icon
 Author: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.serendipity/
+Depiction: repo/depictions/com.devsignerz.serendipity/
 Name: Serendipity
 
