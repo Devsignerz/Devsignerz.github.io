@@ -3,7 +3,7 @@ Name: noBetaAlert
 Depends: mobilesubstrate
 Version: 1.0
 Architecture: iphoneos-arm
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.nobetaalert/
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.nobetaalert/
 Description: Disables the alert shown after you unlock your device on the beta firmware
 Maintainer: Devsignerz
 Author: Devsignerz

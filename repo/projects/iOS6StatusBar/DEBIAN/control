@@ -1,0 +1,9 @@
+Package: com.devsignerz.ios6statbar
+Name: iOS 6 StatusBar
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios6statbar/
+Description: Must download XenHTML
+Author: Devsignerz
+Section: Widgets
+Version: 1.0

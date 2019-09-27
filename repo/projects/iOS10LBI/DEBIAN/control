@@ -3,7 +3,7 @@ Name: iOS 10 LBI Theme
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
 Maintainer: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios10lbi/
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios10lbi/
 Description: plugin for a tweak made by pw5a29, "Live battery indicator" which changes your status bar icon to ios 10's
 Author: Devsignerz
 Section: Addons

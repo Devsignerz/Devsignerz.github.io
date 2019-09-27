@@ -2,7 +2,7 @@ Package: com.devsignerz.ios11theme
 Name: iOS 11 Theme
 Architecture: iphoneos-arm
 Maintainer: Devsignerz
-Depiction: http://devsignerz.com/repo/depictions/com.devsignerz.ios11theme/
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios11theme/
 Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images
 Author: Devsignerz
 Section: Themes
