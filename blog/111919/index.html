@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+
+<html lang="en"  style="background-image: linear-gradient(to bottom right, orange, purple); height: 100%">
+
+<head>
+
+    <link href="style.css" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta charset="UTF-8">
+
+    <title>Devsignerz | Blog</title>
+    <link rel="icon" type="image/png"
+ href="images/Logo.png" />
+
+
+</head>
+
+
+<body>
+	<center>
+    <div class="card">
+        <div class="container">
+            <h1 style="font-family: light;"><b>How to Downgrade to OS X Mavericks from macOS Catalina</b></h1>
+            <p style="font-family: extraLight;">Since the release of macOS Catalina, Apple made the ability for users to downgrade their macs to older OS harder and even removed OS X Yosemite(10.10) and older from the mac app store which is very unfortunate. but no worries! this tutorial shows you how you can downgrade your mac to the legendary OS X Mavericks with the classic skeuomorphic design.</p>
+<h2>Requirements</h2>
+<p>USB Stick (8GB or bigger)
+<br>Mavericks Installer (<a href="https://drive.google.com/open?id=1aqZnH_nHHvtrnnhfmXH0mE7BGJv-rGD3">Google Drive Link</a>)
+<br>Patience</p>
+<h2>How to install</h2>
+<p>1. This is actually a really easy one! after you download the Mavericks you need to open the dmg file and drag the .app file inside your applications folder and since you can't open it on a newer OS version which im assuming you are on, your only option would be to make a bootable installer on your usb. so plug in the usb and run this command (<span class="warning">WARNING: when you run the command it will format your usb and remove the data on it</span>) 
+	<br><span class="highlight">sudo /Applications/Install\ OS\ X\ Mavericks.app/Contents/Resources/createinstallmedia --volume /Volumes/Your USB Name --applicationpath /Applications/Install\ OS\ X\ Mavericks.app</span> 
+	<br><br>2. Now your usb is ready to boot on but we need a clean drive to install it on which is pretty easy to make if you don't have one. 
+	<br><br>3. a) Search and open the disk utility app and on the top left (as shown in the picture) you see an option to show all drives. 
+	<br><img src="./images/1.png"><img src="./images/2.png">
+	<br>b) Select you mac's drive and click on partition. it may ask you if you want to partition or add volume to your drive, select partition
+	<br>c) Add any amount you like and partition it as <span class="highlight">Mac OS Extended (Journaled)</span> and partition the drive 
+	<br><br>4. After you got your drive ready, restart your mac and hold option/alt when it turns back on and wait until you see your bootable drives. choose you usb and wait for the installer to boot up.
+	<br><br>5. now you can just choose the drive you partitioned for it to install the os on and go through the setup and you're done!
+    <br><span class="warning">If you get a server error while installing you can change the date back to 2015 using this command </span> <span class="highlight"> date 1119134719</span> (formats like this: date {month}{day}{hour}{minute}{year} which in this case is Nov 19, 13:47 or 1:47pm <span class="warning">SHOULD BE 24 HOUR FORMAT</span>, 2019)
+</p>
+        </div>
+    </div> 
+    </center>
+</body>
+
+
+<footer>
+    <center>
+        <a href="http://twitter.com/devsignerz/">
+            <img src="../images/twitter.png" alt="Twitter" class="footer-btns" >
+        </a>
+        <a href="https://www.instagram.com/devsignerz/">
+            <img src="../images/instagram.png" alt="Instagram" class="footer-btns">
+        </a>
+        <a href="https://www.youtube.com/channel/UCmucqPNnGnCeht8IiJErSAQ">
+            <img src="../images/Youtube.png" alt="Youtube" class="footer-btns">
+        </a>
+
+
+
+
+
+    </center>
+    <center style="padding-top: 10px; color: #fff; font-family: light;">&copy; 2017 Devsignerz</center>
+</footer>
+
+
+</html>
