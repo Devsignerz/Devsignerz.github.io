@@ -13,3 +13,5 @@ dpkg-deb -bZgzip projects/Serendipity
 mv projects/Serendipity.deb debs/Serendipity.deb
 dpkg-deb -bZgzip projects/iOS6StatusBar
 mv projects/iOS6StatusBar.deb debs/iOS6StatusBar.deb
+dpkg-deb -bZgzip projects/Grayd00r5
+mv projects/Grayd00r5.deb debs/Grayd00r5.deb

@@ -1,0 +1,124 @@
+Package: com.devsignerz.grayd00r5
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/Grayd00r5.deb
+Size: 19894150
+MD5sum: 04e7e7eee00fddd37b4720832e341c1b
+SHA1: 2fa2d8e82a2a88664b61dd74b05a78479c929747
+SHA256: 246ee3dc1bf1fc9563d9ace891c865262b5564550583ae38dc3c99c22fe3f26d
+Section: Themes
+Description: iOS 5 theme for grayd00r (grayd00r features with ios 5 theme)
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.grayd00r5/
+Name: Grayd00r 5 Theme
+
+Package: com.devsignerz.ios10lbi
+Version: 2.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/iOS10LBI.deb
+Size: 530926
+MD5sum: a257d27b1f75fab1b4e03edd9754f8ab
+SHA1: 1f12b6114df36d2f907efaef08c19c0099ee00a9
+SHA256: 82226241d466692cbe6f83d030539ff5411e7b8235ad3e2fbf6f9531af8b065d
+Section: Addons
+Description: plugin for a tweak made by pw5a29, "Live battery indicator" which changes your status bar icon to ios 10's
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios10lbi/
+Name: iOS 10 LBI Theme
+
+Package: com.devsignerz.ios11theme
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/iOS11Theme.deb
+Size: 81026
+MD5sum: 2a1394f10905626d438b9a8c9f7bbe7b
+SHA1: 081fe4a6fb2238226b6034c527549eefbd222fb7
+SHA256: 27f9307b7af6ef543993cbc1235ccdb66c2282e69c02b137db98d94a6ed30590
+Section: Themes
+Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios11theme/
+Name: iOS 11 Theme
+
+Package: com.devsignerz.ios6statbar
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/iOS6StatusBar.deb
+Size: 892
+MD5sum: 5dd954232247f268fe39bae6fe48ddeb
+SHA1: 67cd85a9ab67287804cb8f4f95c4072dd732717b
+SHA256: 699208d09158fe6735f6127452078cbe1cfb08ed67681cc7b4142a3a69bf8fd5
+Section: Widgets
+Description: Must download XenHTML
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios6statbar/
+Name: iOS 6 StatusBar
+
+Package: com.devsignerz.ios9theme
+Version: 9.3
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/iOS9Theme.deb
+Size: 10821710
+MD5sum: f74c12ff6e0cb8830dc804162a0294a7
+SHA1: 4dc5ce3d616b7e0222a994d7155938fc89410469
+SHA256: 9dd8f55eed18455ef54bd8e22454a58a4b1550990299af0cc20fc91dadd3cd4a
+Section: Themes
+Description: SD Devices Only!!!
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.ios9theme/
+Name: iOS 9 Theme
+
+Package: com.devsignerz.nobetaalert
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/noBetaAlert.deb
+Size: 4180
+MD5sum: 2ca3f66abaa498bcf04eae74639a8073
+SHA1: 30b3c731a439c3d907280dc0ad6012c60b57e472
+SHA256: be7412b82881220ee3e0239d321f043dc536e85772d2f75e47d91a02a19fb0dc
+Section: Tweaks
+Description: Disables the alert shown after you unlock your device on the beta firmware
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.nobetaalert/
+Name: noBetaAlert
+
+Package: com.devsignerz.photosfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depends: mobilesubstrate
+Filename: ./debs/photosFix.deb
+Size: 2014
+MD5sum: bf7eabb402511fa7250e18eeaf37b80c
+SHA1: 525064258681843274b36923ebb4250e21aa86d2
+SHA256: 04c7cbb190cdd8f62d865708af8b62bbaab58b9a4b8ed79fde182641ffefa0e0
+Section: Tweaks
+Description: a plugin for grayd00r that fixes the statusbar on photos and notes app
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.photosFix/
+Name: photosFix
+
+Package: com.devsignerz.serendipity
+Version: 1.0beta1
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/Serendipity.deb
+Size: 658688
+MD5sum: fb6643d0e4d617bb36faf9c7df4fd7db
+SHA1: 5cad358dec77ab65965321c1086135b931769ddb
+SHA256: bffa72e79116f3ada10927c2ec474bd98a4c2c920d444e798ded84126cd07ac5
+Section: Themes
+Description: original idea came from apple's 3D redesign rumor before ios 12's release and their WWDC icon
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.serendipity/
+Name: Serendipity
+
