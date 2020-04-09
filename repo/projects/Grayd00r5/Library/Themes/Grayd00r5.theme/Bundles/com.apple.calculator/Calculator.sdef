@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dictionary SYSTEM "file://localhost/System/Library/DTDs/sdef.dtd">
+<dictionary title="Calculator Terminology">
+	<suite name="Calculator Suite" code="calc" description="Calculator-specific classes and commands.">
+		<command name="selfTest" code="coreself" description="Run self test for Calculator.">
+			<cocoa class="ASPerformSelectorCommand" key="selfTest"/>
+			<result type="boolean"/>
+		</command>
+	</suite>
+</dictionary>
