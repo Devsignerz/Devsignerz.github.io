@@ -1,0 +1,9 @@
+Package: com.devsignerz.grayd00rfix
+Name: Grayd00r UI Fix
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.grayd00rfix/
+Description: Fixes a few UIs in grayd00r to look more like iOS 9. Apply with WinterBoard 
+Author: Devsignerz
+Section: Grayd00r
+Version: 1.0
