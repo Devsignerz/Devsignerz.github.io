@@ -4,14 +4,29 @@ Architecture: iphoneos-arm
 Maintainer: Devsignerz
 Filename: ./debs/Grayd00r5.deb
 Size: 19894150
-MD5sum: 944d41188e7d11326e17ac4a93b97652
-SHA1: c083d59cf2e2edfe4605f9f7659a0348d06d559b
-SHA256: 12140b03376464b74501d0de1261a1f4018bcae2a95540fc770622e7bd799e4e
+MD5sum: 13233389cd17b6f3c803edfd0ac7b8e5
+SHA1: 5c7c4365aefa0bea22c70fa45d176290b77d8db6
+SHA256: 357aba4ef109ca4412d17e7c07867d5c316d83c721b3decf243cebc9b9d12b9a
 Section: Grayd00r
 Description: iOS 5 theme for grayd00r (grayd00r features with ios 5 theme)
 Author: Devsignerz
 Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.grayd00r5/
 Name: Grayd00r 5 Theme
+
+Package: com.devsignerz.grayd00rfix
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Filename: ./debs/Grayd00rUIFix.deb
+Size: 765378
+MD5sum: 794741f8c8c5895e770c7808d9a45d7a
+SHA1: b3bd359ec04a83f139f88efc0603c186a86a0cca
+SHA256: 44857c5feb53f1bc9dfdfd68a74ad649da3a54b24134c19d9f71618b79ebbb7d
+Section: Grayd00r
+Description: Fixes a few UIs in grayd00r to look more like iOS 9. Apply with WinterBoard
+Author: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.grayd00rfix/
+Name: Grayd00r UI Fix
 
 Package: com.devsignerz.ios10lbi
 Version: 2.0
@@ -20,9 +35,9 @@ Maintainer: Devsignerz
 Depends: mobilesubstrate
 Filename: ./debs/iOS10LBI.deb
 Size: 530926
-MD5sum: 96ac55c120e38153599468ba1db481f9
-SHA1: 0c604dbfe447dd15fc9e0d1e9964ec05d4a8cac0
-SHA256: a72822175b224eb138661b6ad4166ffeda07343f49dbee93313add2e869f8265
+MD5sum: c82052534a60e217ad7643c151fb707c
+SHA1: 45a5a64a6f35cc700a6123d6c78754ed54408777
+SHA256: bdb53b09800de747f81cacbfb0b0e713e04044e77b46ed0d6be3fad5c863edf9
 Section: Addons
 Description: plugin for a tweak made by pw5a29, "Live battery indicator" which changes your status bar icon to ios 10's
 Author: Devsignerz
@@ -35,9 +50,9 @@ Architecture: iphoneos-arm
 Maintainer: Devsignerz
 Filename: ./debs/iOS11Theme.deb
 Size: 81026
-MD5sum: 3d7ceb511db80eb5faa2d6ae111d202c
-SHA1: f64a7c55b6299ce80faa30fce3a97488209fb64f
-SHA256: 5458a5ba5407b583e0eb5d52f596598ae6a1590090f797da761439805f7d6c6c
+MD5sum: 1fbd659a94b6d28cb638196262bdbb42
+SHA1: add2fec9923a15b6af5274ebd8a789b11908837d
+SHA256: 47d2f75a465f48c5ea455a6653961158ecc68d781159ce008a5378af7a911a12
 Section: Themes
 Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images
 Author: Devsignerz
@@ -50,9 +65,9 @@ Architecture: iphoneos-arm
 Maintainer: Devsignerz
 Filename: ./debs/iOS6StatusBar.deb
 Size: 892
-MD5sum: 7c7823893a711e578555532477753d56
-SHA1: 57a7bf8be032bd537052c77c056c375cfc1e6e20
-SHA256: aa8f2ef5f8919d3eed979a53386f34cc4722a4be04bc1b40a54d8480b51955ef
+MD5sum: 17057f735ee00e446b4e3d4a81c4afa9
+SHA1: a35253437735b718b042ad46188895049094116e
+SHA256: 4620070dad8402ea8ff6a8efcd626b7a8a5f6dae7246b23c666cb72bab502d08
 Section: Widgets
 Description: Must download XenHTML
 Author: Devsignerz
@@ -66,9 +81,9 @@ Maintainer: Devsignerz
 Depends: mobilesubstrate
 Filename: ./debs/iOS9Theme.deb
 Size: 10821710
-MD5sum: 0bda77506ca762a6288cf00c0304d5e6
-SHA1: 6b45bb560a2d479387090614db194b34af357e52
-SHA256: ddcb49547b85f967a9e316d6adc97e324bf9b1ad91aae0ad8e2d809ef858baf8
+MD5sum: e689d0abca19fb281f96e384da10adcd
+SHA1: b543febdf9e63c5c35031048aad4ba7bb869b5c6
+SHA256: 8b10273df53db5107915180c0d82f1fd312c6a1fe2f58d27493dcf6bfa45e57e
 Section: Themes
 Description: SD Devices Only!!!
 Author: Devsignerz
@@ -82,9 +97,9 @@ Maintainer: Devsignerz
 Depends: mobilesubstrate
 Filename: ./debs/noBetaAlert.deb
 Size: 4180
-MD5sum: fce381e1f9e6ec9f60e80058b7323812
-SHA1: 8528151b7e72f1c0b437caf44ece95e16368c120
-SHA256: 2a913305c4dd3635f8597137e162be922c2f78da8bd02948290f97022599c63a
+MD5sum: ad5cebfeae700f2979485d4e817e93cd
+SHA1: 10db2037fd4e83093d51ad69bd620e5c2fcdf441
+SHA256: 05cf75f11f98e0dc070ecbcf23734284776d98dece0ac338772a0571e112addb
 Section: Tweaks
 Description: Disables the alert shown after you unlock your device on the beta firmware
 Author: Devsignerz
@@ -98,9 +113,9 @@ Maintainer: Devsignerz
 Depends: mobilesubstrate
 Filename: ./debs/photosFix.deb
 Size: 2020
-MD5sum: d4ba04edc337324fb830e2f379a10503
-SHA1: 4731594b833f769bdf597401c0e4c097197b6636
-SHA256: 1518d3faebb90de289ebf8ea22f241d09db20fed8e6ddc66f854590e23d15aaa
+MD5sum: 02216c829849ccf6885cb29a44ffc5ef
+SHA1: 1eaa6cddfc53870febf26692934c6e2c9354a7c1
+SHA256: 76df37ef6ed050007a8d7d71911ecd04f573a8486b349afa05ec155005651793
 Section: Grayd00r
 Description: a plugin for grayd00r that fixes the statusbar on photos and notes app
 Author: Devsignerz
@@ -113,9 +128,9 @@ Architecture: iphoneos-arm
 Maintainer: Devsignerz
 Filename: ./debs/Serendipity.deb
 Size: 658688
-MD5sum: c6951095c81cd742b599d7882fa9817e
-SHA1: d59db04d1b75838048bbc440ea41fddd8ea2dac5
-SHA256: ff0891cfe255e8325f78914d660165d73bba98c82b703e18736e404b552b791c
+MD5sum: b1feb21018b603ad031ed0affa4d18c2
+SHA1: 19fdad2f475f1bb6eb3d1ccd30a6fa40c73fcea2
+SHA256: 9f7ad736732b8d1c6b63fc57cfd225b0aa27f451d81d395b921225d9e52c8fe0
 Section: Themes
 Description: original idea came from apple's 3D redesign rumor before ios 12's release and their WWDC icon
 Author: Devsignerz

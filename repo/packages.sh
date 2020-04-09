@@ -15,3 +15,5 @@ dpkg-deb -bZgzip projects/iOS6StatusBar
 mv projects/iOS6StatusBar.deb debs/iOS6StatusBar.deb
 dpkg-deb -bZgzip projects/Grayd00r5
 mv projects/Grayd00r5.deb debs/Grayd00r5.deb
+dpkg-deb -bZgzip projects/Grayd00rUIFix
+mv projects/Grayd00rUIFix.deb debs/Grayd00rUIFix.deb
