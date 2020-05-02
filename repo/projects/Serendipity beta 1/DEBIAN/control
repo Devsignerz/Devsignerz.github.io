@@ -1,0 +1,9 @@
+Package: com.devsignerz.serendipity
+Name: Serendipity
+Architecture: iphoneos-arm
+Maintainer: Devsignerz
+Depiction: http://devsignerz.github.io/repo/depictions/com.devsignerz.serendipity/
+Description: original idea came from apple's 3D redesign rumor before ios 12's release and their WWDC icon
+Author: Devsignerz
+Section: Themes
+Version: 1.0beta1
